@@ -1,4 +1,3 @@
-
 -- Daniel: funcion que recibe un entero y retorna un entero
 ultimaCifra :: Int -> Int
 
