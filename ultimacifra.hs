@@ -8,7 +8,6 @@ ultimaCifra :: Int -> Int
 -}
 ultimaCifra x = x `mod` 10
 
+-- Pruebas que puso el profesor en moodle
 main = do
-    print (ultimaCifra 325)  -- Resultado: 5
-    print (ultimaCifra 7845219)  -- Resultado: 9
-    print (ultimaCifra 56)   -- Resultado: 6
+    print (ultimaCifra 325)  -- 5
